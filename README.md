@@ -78,6 +78,7 @@ The application uses SQLite for persistent data storage and provides an interact
 ![Global Settlements](screenshots/global-settlements.png)
 
 ---
+
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
