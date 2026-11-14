@@ -55,7 +55,29 @@ The application uses SQLite for persistent data storage and provides an interact
 - Separate service classes for business logic.
 
 ---
+---
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Member Management
+![Members](screenshots/members.png)
+
+### Group Management
+![Groups](screenshots/groups.png)
+
+### Expense Management
+![Expenses](screenshots/expenses.png)
+
+### Group Settlements
+![Group Settlements](screenshots/group-settlements.png)
+
+### Global Settlements
+![Global Settlements](screenshots/global-settlements.png)
+
+---
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
